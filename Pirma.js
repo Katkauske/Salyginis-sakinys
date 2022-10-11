@@ -4,7 +4,7 @@
 //(Galite susikurti papildomą funkciją, kuri rezultatą išveda suformuluotai/gražiau)
 
 let x = +prompt("Iveskite skaiciu ir suzinosite ar jis lyginis");
-alert (isvedimas(x));
+alert (isvedimas(arLyginis(x)));
 
 function arLyginis(x) {
     if (x % 2 == 0) {
