@@ -20,8 +20,8 @@ function arStatus(a,b,c) {
         return false;
     }
 }
-function isvedimas(a,b,c) {
-    if (a,b,c == true) {
+function isvedimas(arStatus) {
+    if (arStatus == true) {
         return ("Trikampis yra statusis!")
     }
     else {

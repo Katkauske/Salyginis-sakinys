@@ -7,6 +7,7 @@ function arSandaugaDidesneUzSuma(x,y) {
     if ((x * y) > (x + y)) 
         return true
     
-    else ((x * y) <= (x + y)) 
-        return false  
+    else { 
+        return false
+    }
 }

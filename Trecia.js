@@ -11,7 +11,7 @@ function kurisDidesnis(x,y) {
     else if (x < y) {
         return ("1");
     }
-    else (x == y) 
+    else {
         return ("0");
-    
+    } 
 }
