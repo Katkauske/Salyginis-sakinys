@@ -6,6 +6,6 @@ console.log(arSandaugaDidesneUzSuma(x,y))
 function arSandaugaDidesneUzSuma(x,y) {
     if ((x * y) > (x + y)) 
         return true;
-    else () 
+    else  
         return false;
 }
